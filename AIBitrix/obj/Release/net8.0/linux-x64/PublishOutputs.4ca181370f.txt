@@ -1,0 +1,17 @@
+/Users/siquell/Desktop/project/build/AIBitrix
+/Users/siquell/Desktop/project/build/appsettings.Development.json
+/Users/siquell/Desktop/project/build/appsettings.json
+/Users/siquell/Desktop/project/build/AIBitrix.deps.json
+/Users/siquell/Desktop/project/build/AIBitrix.runtimeconfig.json
+/Users/siquell/Desktop/project/build/AIBitrix.pdb
+/Users/siquell/Desktop/project/build/AIBitrix.Domain.pdb
+/Users/siquell/Desktop/project/build/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/siquell/Desktop/project/build/Certes.dll
+/Users/siquell/Desktop/project/build/LettuceEncrypt.dll
+/Users/siquell/Desktop/project/build/McMaster.AspNetCore.Kestrel.Certificates.dll
+/Users/siquell/Desktop/project/build/Newtonsoft.Json.dll
+/Users/siquell/Desktop/project/build/OpenAI_API.dll
+/Users/siquell/Desktop/project/build/BouncyCastle.Crypto.dll
+/Users/siquell/Desktop/project/build/Telegram.Bot.dll
+/Users/siquell/Desktop/project/build/AIBitrix.Domain.dll
+/Users/siquell/Desktop/project/build/AIBitrix.dll

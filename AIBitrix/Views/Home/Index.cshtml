@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Главная";
+    Layout = "_Layout";
+}
+
+<div class="">
+    <h1 class="mt-3 mb-4 fw-bold">Промпты</h1>
+    
+    <div class="alert alert-info" role="alert">
+        Промпты - это специально подготовленные запросы, которые вы задаете для получения информации или выполнения действий. Они используются для обучения моделей GPT   
+        </div>
+    
+    <h3 class="mt-3">Промпт системного запроса</h3>
+    
+    <p>Данный промпт описывает "промывку" модели и описывает дополнительные надстройки обучения модели GPT. Промпт улучшает показатели по ответу модели</p>
+    
+    <div class="alert alert-warning" role="alert">
+        Не рекомендуюется изменять system-prompt без консультации со специалистом по дата-инжинерингу
+    </div>
+    
+    <p>@await System.IO.File.ReadAllTextAsync(@"./start.txt")</p>
+    
+    
+    <table class="table mt-5">
+      <thead>
+        <tr>
+          <th scope="col">Модель GPT</th>
+          <th scope="col">API Ключ</th>
+          <th scope="col">Температура</th>
+          <th scope="col">Макс. токенов</th>
+          
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>ft:gpt-3.5-turbo-0613:alex-maison::8pPWLFWM</td>
+          <td>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</td>
+          <td>0.85</td>
+          <td>350</td>
+        </tr>
+        
+      </tbody>
+    </table>
+</div>

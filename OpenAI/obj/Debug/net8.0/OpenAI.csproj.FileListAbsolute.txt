@@ -1,0 +1,11 @@
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/bin/Debug/net8.0/OpenAI.deps.json
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/bin/Debug/net8.0/OpenAI.dll
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/bin/Debug/net8.0/OpenAI.pdb
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.AssemblyInfoInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.AssemblyInfo.cs
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.csproj.CoreCompileInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.dll
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/refint/OpenAI.dll
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/OpenAI.pdb
+/Users/siquell/Desktop/project/AIBitrix/OpenAI/obj/Debug/net8.0/ref/OpenAI.dll

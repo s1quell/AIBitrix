@@ -1,0 +1,11 @@
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/bin/Release/net8.0/AIBitrix.Domain.deps.json
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/bin/Release/net8.0/AIBitrix.Domain.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/bin/Release/net8.0/AIBitrix.Domain.pdb
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.AssemblyInfoInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.AssemblyInfo.cs
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.csproj.CoreCompileInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/refint/AIBitrix.Domain.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/AIBitrix.Domain.pdb
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Domain/obj/Release/net8.0/ref/AIBitrix.Domain.dll

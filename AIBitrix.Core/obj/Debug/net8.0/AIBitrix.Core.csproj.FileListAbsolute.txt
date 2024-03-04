@@ -1,0 +1,11 @@
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/bin/Debug/net8.0/AIBitrix.Core.deps.json
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/bin/Debug/net8.0/AIBitrix.Core.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/bin/Debug/net8.0/AIBitrix.Core.pdb
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.AssemblyInfoInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.AssemblyInfo.cs
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.csproj.CoreCompileInputs.cache
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/refint/AIBitrix.Core.dll
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/AIBitrix.Core.pdb
+/Users/siquell/Desktop/project/AIBitrix/AIBitrix.Core/obj/Debug/net8.0/ref/AIBitrix.Core.dll
